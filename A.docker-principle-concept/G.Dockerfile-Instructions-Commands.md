@@ -48,14 +48,14 @@ USER appuser
 The MAINTAINER instruction was used in older versions of Docker to specify the person responsible for the Dockerfile or image.Metadata of the owner who owns the image
 
 ```sh
-MAINTAINER Saiful Islam <saiful.islam@example.com>
+MAINTAINER Md. Alauddin <alauddin@example.com>
 ```
 ###### ✅**LABEL**
 
 The `LABEL` instruction is used to add metadata to an image. It is more versatile and can be used to specify the maintainer along with other metadata like version, description, and more.
 
 ```sh
-LABEL maintainer="Saiful Islam <saiful.islam@example.com>"
+LABEL maintainer="Md. Alauddin <alauddin@example.com>"
 LABEL version="1.0"
 LABEL description="A simple nodejs application"
 ```
