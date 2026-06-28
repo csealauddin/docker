@@ -14,7 +14,7 @@ Multi-stage Dockerfile is an essential feature provided by Docker that allows de
    - Clear separation of build vs runtime environment
 
 
-Here is the real example of Multi-Stage Dockerfile. We converted [Single-Stage Dockerfile](https://github.com/saifulislam88/docker/blob/main/A.docker-principle-concept/introduction-docker-container.md#write-a-dockerfile-on-nodejs-application) to Multi-Stage Dockerfile in below.
+Here is the real example of Multi-Stage Dockerfile. We converted [Single-Stage Dockerfile](https://github.com/csealauddin/docker/blob/main/A.docker-principle-concept/introduction-docker-container.md#write-a-dockerfile-on-nodejs-application) to Multi-Stage Dockerfile in below.
 
 #### **Find the following Multi-Stage Dockerfile**
 ```sh
