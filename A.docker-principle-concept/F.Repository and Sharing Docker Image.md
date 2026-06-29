@@ -8,7 +8,7 @@ https://github.com/pravinmishraaws/Docker-Demo/blob/main/04_Sharing_Docker_Image
 
    - #### 📌Tag | Login | Push the Docker Image - Multi-Stage 
 
-`docker tag my-node-app csealauddin/my-node-app:latest`
+`docker tag my-node-app alauddin94/my-node-app:latest`
   
 `docker login`\
 `docker login -u alauddin94`\
