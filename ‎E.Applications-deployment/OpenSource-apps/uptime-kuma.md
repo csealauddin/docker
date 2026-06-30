@@ -1,1 +1,1 @@
-https://github.com/saifulislam88/uptime-kuma/tree/main
+https://github.com/alauddin94/uptime-kuma/tree/main
